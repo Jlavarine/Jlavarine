@@ -17,7 +17,7 @@
 
 ## About Me:
 <p>                                                                                                                    
-I am a Front End Developer with a passion for solving challenging problems. I made the switch from my usual customer facing service jobs to software development, because I have always been good at solving puzzles and have always enjoyed technical challenges. I plan to graduate from the Turing School of Software & Design this coming August and hit the ground running looking for job opportunities that will showcase my personal skills as well as my new technical skills. 
+I am a Front End Engineer with a passion for learning and solving problems. I made the switch from my usual customer facing service jobs to software development. My business management background has given me great soft skills like communication. Pair that with my technical knowledge, and I believe I am a great asset to any team. Please feel free to view my repositories to see my previous projects.
 </p>
                                                                                                                     
 <p>
