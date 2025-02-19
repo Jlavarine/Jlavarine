@@ -2,22 +2,11 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Jlavarine&show_icons=true&theme=dark&hide_border=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jlavarine&layout=compact&theme=dark&hide_border=true%22/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jlavarine&style=flat-square&color=3CD218" alt="Profile view counter"/>
-</div>
-
 ## About Me:
 <p>                                                                                                                    
-I am a Front End Engineer with a passion for learning and solving problems. I made the switch from my usual customer facing service jobs to software development. My business management background has given me great soft skills like communication. Pair that with my technical knowledge, and I believe I am a great asset to any team. Please feel free to view my repositories to see my previous projects.
+I'm a Front End Software Engineer with a passion for building accessible, high-performing web applications. With 2 years of experience specializing in TypeScript, React, and front end accessibility, I focus on crafting user-friendly and inclusive digital experiences.
+
+Over the past year, I’ve taken on team leadership responsibilities, mentoring developers, improving workflows, and fostering collaboration to drive impactful projects. I thrive in environments where I can build, optimize, and elevate front-end experiences—whether through clean code, accessibility best practices, or innovative problem-solving.
 </p>
                                                                                                                     
 <p>
