@@ -6,7 +6,7 @@
 <p>                                                                                                                    
 I'm a Front End Software Engineer with a passion for building accessible, high-performing web applications. With 2 years of experience specializing in TypeScript, React, and front end accessibility, I focus on crafting user-friendly and inclusive digital experiences.
 
-Over the past year, I’ve taken on team leadership responsibilities, mentoring developers, improving workflows, and fostering collaboration to drive impactful projects. I thrive in environments where I can build, optimize, and elevate front-end experiences—whether through clean code, accessibility best practices, or innovative problem-solving.
+Over the past year, I’ve taken on team leadership responsibilities, mentoring developers, improving workflows, and fostering collaboration to drive impactful projects. I thrive in environments where I can build, optimize, and elevate front-end experiences through clean code, accessibility best practices, and innovative problem-solving.
 </p>
                                                                                                                     
 <p>
