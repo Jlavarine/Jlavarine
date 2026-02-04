@@ -4,9 +4,9 @@
 
 ## About Me:
 <p>                                                                                                                    
-I'm a Front End Software Engineer with a passion for building accessible, high-performing web applications. With 2 years of experience specializing in TypeScript, React, and front end accessibility, I focus on crafting user-friendly and inclusive digital experiences.
+I'm a Front End Software Engineer with a passion for building accessible, high-performing web applications. With 3 years of professional experience specializing in React, TypeScript, and front end accessibility, I focus on crafting user-friendly and inclusive digital experiences.
 
-Over the past year, I’ve taken on team leadership responsibilities, mentoring developers, improving workflows, and fostering collaboration to drive impactful projects. I thrive in environments where I can build, optimize, and elevate front-end experiences through clean code, accessibility best practices, and innovative problem-solving.
+I also have team leadership experience which included agile development sprint-planning and tracking, mentoring developers, improving workflows, and fostering collaboration to drive impactful projects.
 </p>
                                                                                                                     
 <p>
@@ -25,10 +25,11 @@ Over the past year, I’ve taken on team leadership responsibilities, mentoring 
 
 ## Frameworks/Libraries:
 <p>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </p>
 
 ## Tools:
